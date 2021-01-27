@@ -11,9 +11,9 @@ watch the full tutorial on youtube:
 You need the following libraries to run this script:
 
 ``` batch
-  - pywin32
-  - shutil
-  - pycrypto
-  - crypto
+- pywin32
+- shutil
+- pycrypto
+- crypto
  ```
 " install them by using the pip command : pip install modulename "
