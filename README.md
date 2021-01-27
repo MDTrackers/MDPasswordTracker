@@ -6,7 +6,7 @@ that your victim logged in using google chrome browser without any Limitations!
 even the most secure websites like instagram, facebook, reddit, youtube and ... .
 watch the full tutorial on youtube:
 
-#ss
+# ss
 
 ``` batch
 you need the following libraries to run this script:
