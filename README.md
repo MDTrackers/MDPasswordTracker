@@ -7,8 +7,6 @@ even the most secure websites like instagram, facebook, reddit, youtube and ... 
 watch the full tutorial on youtube:
 
 -----------------
-<<attention : dont use this tool in illegal way>>
-------------------
 
 ``` batch
 you need the following libraries to run this script:
